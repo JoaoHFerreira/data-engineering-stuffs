@@ -1,5 +1,5 @@
 ## [SpreadSheetsToDabase](https://github.com/JoaoHFerreira/SpreadSheetToDatabase)
-    Dynamic create postgres tables based on spreadsheets tabs.
+Dynamic create postgres tables based on spreadsheets tabs.
 
 ## [PyTerminal](https://github.com/JoaoHFerreira/pyTerminal)
 Project made to walktrough clean code, each branch adopts a specific topic.
