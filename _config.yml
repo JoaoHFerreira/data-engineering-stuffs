@@ -3,3 +3,7 @@ plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 title: [Data Engineering Stuffs]
 theme: jekyll-theme-tactile
+social:
+  name: Joao Ferreira | Data Engineer
+  links:
+    - https://www.linkedin.com/in/jo%C3%A3o-henrique-ferreira-data-engineer/
